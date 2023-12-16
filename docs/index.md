@@ -28,3 +28,16 @@ For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 * [Just the Docs](https://just-the-docs.com/)
 * [MyST](https://myst-parser.readthedocs.io/en/latest/index.html)
 * [typst](https://typst.app/)
+
+
+## XML
+
+* [untangle: convert xml to python object](https://github.com/stchris/untangle/)
+
+## Linux System
+
+* [A Minimum Complete Tutorial of Linux ext4 File System](https://metebalci.com/blog/a-minimum-complete-tutorial-of-linux-ext4-file-system/)
+
+## Tools
+
+* [cheat sheet](https://cheat.sh/)
