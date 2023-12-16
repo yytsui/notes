@@ -26,3 +26,5 @@ For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 * [A good quick start for MkDocs](https://github.com/james-willett/mkdocs-material-youtube-tutorial)
 * [Scientific Python Library Development Guide](https://learn.scientific-python.org/development/)
 * [Just the Docs](https://just-the-docs.com/)
+* [MyST](https://myst-parser.readthedocs.io/en/latest/index.html)
+* [typst](https://typst.app/)
