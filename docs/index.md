@@ -15,3 +15,12 @@ For full documentation visit [mkdocs.org](https://www.mkdocs.org).
     docs/
         index.md  # The documentation homepage.
         ...       # Other markdown pages, images and other files.
+
+## Documentation
+
+* [MkDocs](https://www.mkdocs.org)
+* [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/)
+* [Jupyter Book](https://jupyterbook.org/intro.html)
+* [Quarto](https://quarto.org)
+* [Bookdown](https://bookdown.org)
+* [A good quick start for MkDocs](https://github.com/james-willett/mkdocs-material-youtube-tutorial)
