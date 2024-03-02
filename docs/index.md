@@ -41,3 +41,9 @@ For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 ## Tools
 
 * [cheat sheet](https://cheat.sh/)
+
+
+## Python
+
+* [Level Up Your Python](https://henryiii.github.io/level-up-your-python/notebooks/0%20Intro.html)
+* [Software Engineering for Scientific Computing](https://henryiii.github.io/se-for-sci/content/intro.html)

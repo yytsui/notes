@@ -1,0 +1,12 @@
+DBShrink document:
+https://learn.microsoft.com/en-us/previous-versions/sql/sql-server-2005/ms190488(v=sql.90)?redirectedfrom=MSDN
+
+
+"""
+For each file, the Microsoft SQL Server 2005 Database Engine calculates a target size. This is the size to which the file is to be shrunk. When DBCC SHRINKDATABASE is specified with target_percent, the Database Engine calculates target size to be the target_percent amount of space free in the file after shrinking. For example, if you specify a target_percent of 25 for shrinking mydb, the Database Engine calculates the target size for the data file to be 8 MB (6 MB of data plus 2 MB of free space). Therefore, the Database Engine moves any data from the last 2 MB of the data file to any free space in the first 8 MB of the data file and then shrinks the file.
+
+Assume the data file of mydb contains 7 MB of data. Specifying a target_percent of 30 allows for this data file to be shrunk to the free percentage of 30. However, specifying a target_percent of 40 does not shrink the data file because the Database Engine will not shrink a file to a size smaller than the data currently occupies. You can also think of this issue another way: 40 percent wanted free space + 70 percent full data file (7 MB out of 10 MB) is more than 100 percent. Because the percentage free that is wanted plus the current percentage that the data file occupies is over 100 percent (by 10 percent), any target_size greater than 30 will not shrink the data file.
+"""
+
+can be easily express as equation: x.  x/(x+6) = 0.25, x+6 < 10
+
