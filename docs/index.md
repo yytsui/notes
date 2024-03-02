@@ -29,7 +29,6 @@ For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 * [MyST](https://myst-parser.readthedocs.io/en/latest/index.html)
 * [typst](https://typst.app/)
 
-
 ## XML
 
 * [untangle: convert xml to python object](https://github.com/stchris/untangle/)
@@ -41,7 +40,6 @@ For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 ## Tools
 
 * [cheat sheet](https://cheat.sh/)
-
 
 ## Python
 
