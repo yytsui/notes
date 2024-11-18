@@ -25,9 +25,10 @@ nav:
   - blog01.md
   - blog02.md
   - blog03.md
-  - gen_recipes_markdown/r117.md
-  - gen_recipes_markdown/r32.md
-  - gen_recipes_markdown/r61.md
-  - gen_recipes_markdown/r294.md
-  - gen_recipes_markdown/r445.md
+  - 食譜文生圖範例:
+    - gen_recipes_markdown/r117.md
+    - gen_recipes_markdown/r32.md
+    - gen_recipes_markdown/r61.md
+    - gen_recipes_markdown/r294.md
+    - gen_recipes_markdown/r445.md
 
