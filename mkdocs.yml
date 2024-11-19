@@ -1,6 +1,8 @@
 site_name: AI應用:從文件提取結構化訊息
 theme:
   name: material
+  icon:
+    repo: fontawesome/brands/github
 
 plugins:
   - search
@@ -32,4 +34,6 @@ nav:
     - gen_recipes_markdown/r294.md
     - gen_recipes_markdown/r445.md
   - conclusion.md
+
+repo_url: https://github.com/yytsui/AIInfoExtractionExample 
  
