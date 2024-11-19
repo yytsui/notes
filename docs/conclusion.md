@@ -8,4 +8,4 @@
 
 1. 步驟圖的風格不一致:這可能可以藉由同一份食譜生成圖的prompt指定風格來改進
 2. 正確性的驗證:文字部分可以藉由不同LLM (ex OpenAI vs Claude AI)的提取結果來交叉比對來做為驗證
-3. 中文化:資料翻譯部分已用AI完成...
+3. 中文化:[資料翻譯部分已用AI完成](https://github.com/yytsui/AIInfoExtractionExample/blob/master/recipe_extractor/translation.py)
